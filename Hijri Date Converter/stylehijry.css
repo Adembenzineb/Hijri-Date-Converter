@@ -1,0 +1,27 @@
+#big{
+    margin: 150px auto;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    background-color: #A4B5C4 ;
+    border-radius: 20px;
+    padding: 2rem;
+    border: 3px solid #071739;
+
+}
+.conv{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+}
+#date{
+    background-color: #CDD5DB;
+}
+#button{
+    background-color: #CDD5DB;
+}
+
+h1{
+    color: #071739;
+}
